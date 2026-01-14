@@ -21,6 +21,8 @@ distance_travel = 120
 time_taken= 3
 average_speed = distance_travel/time_taken
 print(average_speed)
+print(average_speed)
+
 
 
 
