@@ -16,7 +16,7 @@ print(total_cost)
 
 
 
-# a car travel 120km in 3 hrs find the average speed
+# a car travel 120km in 3 hrs find the average speed..............................
 distance_travel = 120
 time_taken= 3
 average_speed = distance_travel/time_taken
