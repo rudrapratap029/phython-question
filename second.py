@@ -13,6 +13,7 @@ pen= 15
 note = 40 
 total_cost= (pen*1 + note*2 )
 print(total_cost)
+print(total)
 
 
 
